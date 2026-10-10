@@ -1,0 +1,17 @@
+N18·09 前童网页更新包
+
+文件说明：
+- index.html：更新后的网页，已内嵌手绘背景图和故事音频；播放按钮保留醒目红色样式。
+- qiantong_hero.png：本次采用的手绘背景图原图。
+- N18_09_前童_真实二维码.png：真实二维码图片，扫码地址：https://zye674746-coder.github.io/ninghai18/
+
+更新 GitHub Pages 的步骤：
+1. 打开仓库：https://github.com/zye674746-coder/ninghai18
+2. 点开 index.html，点右上角铅笔 Edit；如果文件太大无法编辑，就回到仓库主页，选择 Add file → Upload files。
+3. 将本包里的 index.html 上传并覆盖旧的 index.html。不要删除现有仓库里的其他文件。
+4. 如果使用 Upload files，请把本包里的 index.html 拖进去；若提示同名文件，按页面提示提交替换。
+5. 在 Commit changes 区域提交更改。
+6. 等 1–3 分钟，打开 https://zye674746-coder.github.io/ninghai18/ ，Mac 浏览器按 Command + Shift + R 强制刷新。
+7. 检查首屏是否显示迎会手绘图、故事播放按钮是否能播放。
+
+二维码说明：网页的二维码是独立图片，用于印在实体卡上；请用微信扫一扫测试，确认打开上面的网页地址。不要把二维码图片当成 index.html 上传替换。
